@@ -1,0 +1,9 @@
+Ra=0.5; %ohms
+La=0.1; %henry
+J = 5; %moment of inertia, kg-m/s^2
+B=0.01; 
+TL=50;
+Va=160;
+tau_a=La/Ra;
+tau_m= J/B;
+KePhi=1.6;
